@@ -12,8 +12,8 @@ I didn't found any CLI tools for this, so I thought I'd make one.
 
 ## Installation
 
-This package requires (node-canvas)[https://github.com/Automattic/node-canvas/tree/v1.x] to be installed separately.
-For installation instructions see: (Installation)[https://github.com/Automattic/node-canvas/tree/v1.x#installation]
+This package requires [node-canvas](https://github.com/Automattic/node-canvas/tree/v1.x) to be installed separately.
+For installation instructions see: [Installation](https://github.com/Automattic/node-canvas/tree/v1.x#installation)
 
 ```
 npm i -g canvas jpng.svg
