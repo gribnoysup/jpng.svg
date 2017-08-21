@@ -1,0 +1,15 @@
+{
+  "env": {
+    "browser": false,
+    "node": true
+  },
+  "extends": [
+    "node"
+  ],
+  "rules": {
+    "import/no-commonjs": "off",
+    "import/no-nodejs-modules": "off",
+    "no-console": "warn",
+    "no-unused-vars": "warn"
+  }
+}
