@@ -12,13 +12,16 @@ I didn't found any CLI tools for this, so I thought I'd make one.
 
 ## Installation
 
+### TL;DR
+
+```
+brew install pkg-config cairo libpng jpeg giflib
+npm i -g canvas jpng.svg
+```
+
 This package requires [node-canvas](https://github.com/Automattic/node-canvas/tree/v1.x) to be installed separately.
 
 `node-canvas` depends on `Cairo` 2D graphics library. For `node-canvas` installation instructions see: [Installation](https://github.com/Automattic/node-canvas/tree/v1.x#installation)
-
-```
-npm i -g canvas jpng.svg
-```
 
 ## Usage
 
